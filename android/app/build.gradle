@@ -167,7 +167,7 @@ android {
 
 
         debug {
-            buildConfigField "String", "CODEPUSH_KEY", '"'
+            buildConfigField "String", "CODEPUSH_KEY", '""'
             signingConfig signingConfigs.debug
         }
 
