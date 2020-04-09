@@ -68,6 +68,7 @@ class App extends Component {
                 <Text style={styles.sectionDescription}>
                   MARCAOOOOOOOOOO <Text style={styles.highlight}>App.js</Text>{' '}
                   MARCAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                  TESTE
                 </Text>
               </View>
               <View style={styles.sectionContainer}>
