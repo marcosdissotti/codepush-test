@@ -1,4 +1,4 @@
-package com.codepushtest;
+package com.marcaocodepushtest;
 
 import com.facebook.react.ReactActivity;
 
